@@ -93,12 +93,12 @@ Buttons
 }
 .btn-primary {
   background: var(--primaryColor);
-  color: var(--mainWhite);
+  color: #770f10;
   border-color: transparent;
 }
 .btn-primary:hover {
   background: var(--primaryLightColor);
-  color: var(--primaryColor);
+  color: #83552d;
 }
 .btn-block {
   width: 100%;

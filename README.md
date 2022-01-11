@@ -4,7 +4,7 @@ A quick search interface to search any cryptocurrencies with the top 50 market c
 
 _Hosted via Netlify_
 
-[Top 50 Crypto Search](https://)
+[Top 50 Crypto Search](top50-crypto-search.netlify.app)
 
 #### Languages and Libraries
 
