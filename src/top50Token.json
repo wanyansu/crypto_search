@@ -1,0 +1,202 @@
+[
+  {
+    "id": "bitcoin",
+    "symbol": "btc"
+  },
+  {
+    "id": "ethereum",
+    "symbol": "eth"
+  },
+  {
+    "id": "tether",
+    "symbol": "usdt"
+  },
+  {
+    "id": "binancecoin",
+    "symbol": "bnb"
+  },
+  {
+    "id": "solana",
+    "symbol": "sol"
+  },
+  {
+    "id": "usd-coin",
+    "symbol": "usdc"
+  },
+  {
+    "id": "cardano",
+    "symbol": "ada"
+  },
+  {
+    "id": "ripple",
+    "symbol": "xrp"
+  },
+  {
+    "id": "polkadot",
+    "symbol": "dot"
+  },
+  {
+    "id": "terra-luna",
+    "symbol": "luna"
+  },
+  {
+    "id": "avalanche-2",
+    "symbol": "AVAX"
+  },
+  {
+    "id": "dogecoin",
+    "symbol": "doge"
+  },
+  {
+    "id": "shiba-inu",
+    "symbol": "shib"
+  },
+  {
+    "id": "binance-usd",
+    "symbol": "busd"
+  },
+  {
+    "id": "matic-network",
+    "symbol": "matic"
+  },
+  {
+    "id": "chainlink",
+    "symbol": "link"
+  },
+  {
+    "id": "crypto-com-chain",
+    "symbol": "cro"
+  },
+  {
+    "id": "wrapped-bitcoin",
+    "symbol": "wbtc"
+  },
+  {
+    "id": "terrausd",
+    "symbol": "ust"
+  },
+  {
+    "id": "cosmos",
+    "symbol": "atom"
+  },
+  {
+    "id": "algorand",
+    "symbol": "algo"
+  },
+  {
+    "id": "litecoin",
+    "symbol": "ltc"
+  },
+  {
+    "id": "dai",
+    "symbol": "dai"
+  },
+  {
+    "id": "near",
+    "symbol": "near"
+  },
+  {
+    "id": "bitcoin-cash",
+    "symbol": "bch"
+  },
+  {
+    "id": "uniswap",
+    "symbol": "uni"
+  },
+  {
+    "id": "tron",
+    "symbol": "trx"
+  },
+  {
+    "id": "internet-computer",
+    "symbol": "icp"
+  },
+  {
+    "id": "stellar",
+    "symbol": "xlm"
+  },
+  {
+    "id": "okb",
+    "symbol": "okb"
+  },
+  {
+    "id": "fantom",
+    "symbol": "ftm"
+  },
+  {
+    "id": "staked-ether",
+    "symbol": "steth"
+  },
+  {
+    "id": "vechain",
+    "symbol": "vet"
+  },
+  {
+    "id": "ftx-token",
+    "symbol": "ftt"
+  },
+  {
+    "id": "hedera-hashgraph",
+    "symbol": "hbar"
+  },
+  {
+    "id": "axie-infinity",
+    "symbol": "axs"
+  },
+  {
+    "id": "magic-internet-money",
+    "symbol": "mim"
+  },
+  {
+    "id": "compound-ether",
+    "symbol": "ceth"
+  },
+  {
+    "id": "filecoin",
+    "symbol": "fil"
+  },
+  {
+    "id": "the-sandbox",
+    "symbol": "sand"
+  },
+  {
+    "id": "theta-token",
+    "symbol": "theta"
+  },
+  {
+    "id": "ethereum-classic",
+    "symbol": "etc"
+  },
+  {
+    "id": "decentraland",
+    "symbol": "mana"
+  },
+  {
+    "id": "elrond-erd-2",
+    "symbol": "egld"
+  },
+  {
+    "id": "tezos",
+    "symbol": "xtz"
+  },
+  {
+    "id": "leo-token",
+    "symbol": "leo"
+  },
+  {
+    "id": "harmony",
+    "symbol": "one"
+  },
+  {
+    "id": "klay-token",
+    "symbol": "klay"
+  },
+  {
+    "id": "monero",
+    "symbol": "xmr"
+  },
+  {
+    "id": "cdai",
+    "symbol": "cdai"
+  }
+]
