@@ -15,8 +15,7 @@ const SingleCrypto = () => {
      try {
       const response = await CoinGeckoClient.coins.fetch(`${name}`)
       const data = response.data
-      console.log(data)
-      if (data) {
+       if (data) {
         const {name:id, symbol:ticker, market_cap_rank:rank, liquidity_score:lScore, image:pic, sentiment_votes_up:sentiment, description:info} = data
         const newCrypto = {id, ticker, rank, lScore, pic, sentiment, info}
         setCryptos(newCrypto)
